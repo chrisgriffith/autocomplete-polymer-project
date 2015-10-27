@@ -1,6 +1,6 @@
 {
   "name": "autocomplete-polymer-project",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Polymer Project element and attribute autocompletions",
   "main": "./lib/main",
   "license": "MIT",
